@@ -1,4 +1,10 @@
 <?php
+if (!isset($_COOKIE["user_session"]) || $_COOKIE["user_session"] !== "c88f4b1d-fa3a-49ea-a7aa-3f99e44cd487") {
+    header("Location: login.php");
+    exit;
+}
+?>
+<?php
 $file_path = 'logs.json';
 $data = [];
 
