@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="README_SRC/main_img.png" width="250">
+</p>
+
 # User Data Analysis Tool
 
 This project provides tools to analyze user data to help combat addiction. By tracking and visualizing user activities, it gives valuable insights into behavior patterns and triggers.

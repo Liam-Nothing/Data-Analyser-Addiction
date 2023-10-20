@@ -1,0 +1,61 @@
+body {
+    background-color: #fffdfd;
+	color: #072144;
+}
+
+.bg-pastelWhite {
+    background-color: #FAE5E5;
+}
+
+.bg-pastelOrange {
+    background-color: #FED6B5;
+}
+
+.bg-pastelBlue {
+    background-color: #AEDFF7;
+}
+
+.bg-pastelGreen {
+    background-color: #A8F4C7;
+}
+
+.bg-pastelYellow {
+    background-color: #FEEFA8;
+}
+
+.bg-pastelIndigo {
+    background-color: #B2ACF8;
+}
+
+.bg-pastelPink {
+    background-color: #FEB5D9;
+}
+
+.bg-pastelGray {
+    background-color: #D6D6D6;
+}
+
+.bg-pastelPurple {
+    background-color: #DAC7FE;
+}
+
+nav {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+
+	color: #072144;
+}
+
+.custom-alert {
+    background-color: #FFF2F0;
+}
+
+.custom-title, .custom-content {
+    color: #072144;
+}
