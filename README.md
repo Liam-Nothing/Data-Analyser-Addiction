@@ -16,3 +16,13 @@ This project provides tools to analyze user data to help combat addiction. By tr
 
 1. **Logging Data**: Click on any of the colored buttons on the homepage to log a particular action or event.
 2. **Viewing Statistics**: Use the statistics buttons to view daily, hourly, or weekly data visualizations.
+
+
+
+## TODO
+
+- [ ] Add a count per day for each action
+- [ ] Add a count per week for each action
+- [ ] Add a count per hour for each action
+- [ ] Add a count per month for each action
+- [ ] Add navigation buttons to go in the back (day, month ...)
